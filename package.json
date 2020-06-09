@@ -1,0 +1,18 @@
+{
+  "name": "exams",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Peter Addai-Poku, 219009872",
+  "license": "ISC",
+  "description": "Health Records",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.8",
+    "mongoose": "^5.9.18",
+    "nodemon": "^2.0.4"
+  }
+}
